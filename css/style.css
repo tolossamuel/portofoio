@@ -1,0 +1,51 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: gainsboro;
+}
+
+.text {
+  text-align: center;
+}
+
+.text span {
+  color: crimson;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.title h2 {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+.skills {
+  background-color: gainsboro;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.skills {
+  padding-right: 5rem;
+  padding-left: 5rem;
+}
+
+.projects {
+  background-color: gainsboro;
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #dc143c;
+  color: white;
+  font-weight: bold;
+}
